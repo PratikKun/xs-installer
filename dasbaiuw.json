@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.1",
+  "appname": "XSPassManager",
+  "appurl": "https://files.catbox.moe/tipw2a.zip",
+  "extractpath": "C:/xs_clint/apps/xspassmanager",
+  "mainexecutable": "{apppath}/xsPasswordManager.exe"
+}
