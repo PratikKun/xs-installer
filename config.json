@@ -1,10 +1,11 @@
 {
   "launcherTitle": "Version Studio for Everythin",
-  "applicationZipUrl": "https://yoursite.com/build.zip",
-  "backgroundImageUrl": "https://i.imgur.com/VmWkYtU.jpeg",
-  "titleIconUrl": "https://i.imgur.com/HW2gJcB.png",
+  "applicationZipUrl": "https://files.catbox.moe/hhn8mx.zip",
+  "backgroundImageUrl": "https://ac-site.adult-chess.com/logo.png",
+  "titleIconUrl": "https://images.scalebranding.com/sx-or-xs-letter-logo-4c77126f-25fe-4bd9-8f49-53bed7d4f872.jpg",
   "version": "1.0.2",
   "extractPath": "C:/YourCompanyName/YourAppName",
   "addToProgramsFiles": true,
-  "addDesktopShortcut": false
+  "addDesktopShortcut": false,
+  "mainExecutable": "PratikKun's_Clint.exe"
 }
