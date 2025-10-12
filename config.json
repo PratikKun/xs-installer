@@ -1,0 +1,10 @@
+{
+  "launcherTitle": "Version Studio for Everythin",
+  "applicationZipUrl": "https://yoursite.com/build.zip",
+  "backgroundImageUrl": "https://i.imgur.com/VmWkYtU.jpeg",
+  "titleIconUrl": "https://i.imgur.com/HW2gJcB.png",
+  "version": "1.0.2",
+  "extractPath": "C:/YourCompanyName/YourAppName",
+  "addToProgramsFiles": true,
+  "addDesktopShortcut": false
+}
