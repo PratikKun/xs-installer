@@ -1,0 +1,17 @@
+{
+  "launcherTitle": "Version Studio for Everythin",
+  "applicationZipUrl": "https://dn721609.ca.archive.org/0/items/build_20250726/Build.zip",
+  "backgroundImageUrl": "https://ac-site.adult-chess.com/logo.png",
+  "titleIconUrl": "https://images.scalebranding.com/sx-or-xs-letter-logo-4c77126f-25fe-4bd9-8f49-53bed7d4f872.jpg",
+  "version": "1.0.2",
+  "extractPath": "C:/YourCompanyName/YourAppName",
+  "mainExecutable": "Game.exe",
+  "screenshots": [
+      "https://ac-site.adult-chess.com/logo.png",
+      "https://ac-site.adult-chess.com/logo.png",
+      "https://ac-site.adult-chess.com/logo.png"
+  ],
+  "videoUrl": "https://www.youtube.com/embed/U8nJ9Ui2fgo",
+  "addToProgramsFiles": true,
+  "addDesktopShortcut": false
+}
