@@ -1,29 +1,55 @@
 {
-  "version": "1.0.0",
-  "mods": [
+  "launcherVersion": "2.0",
+  "games": [
     {
-      "zipName": "_Language Switcher",
-      "zipUrl": "https://drive.google.com/file/d/1dLND9Nf6vcp_9Lah2fw7KTPM9s8cQQ1V/view?usp=sharing"
+      "gameId": "gtav",
+      "name": "Grand Theft Auto V",
+      "version": "1.5.2",
+      "executable": "PlayGTAV.exe",
+      "installPath": "C:\\Program Files\\Epic Games\\GTAV",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GTA_V_Logo.svg/1200px-GTA_V_Logo.svg.png",
+      "videoUrl": "https://files.catbox.moe/p22v7r.mp4",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_22200c98d0c192480066309fc81984599609bc52.1920x1080.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f5503951082a63d95a274ab5df656097b2a15943.1920x1080.jpg"
+      ],
+      "mods": [
+        {
+          "zipName": "_Language Switcher",
+          "zipUrl": "https://drive.google.com/file/d/1dLND9Nf6vcp_9Lah2fw7KTPM9s8cQQ1V/view?usp=sharing"
+        },
+        {
+          "zipName": "_Redist",
+          "zipUrl": "https://drive.google.com/file/d/1nE1IMT5Gf045LUjryTpYZi4UGoI0mhjV/view?usp=sharing"
+        },
+        {
+          "zipName": "8da560-RmodCustoms LamborghiniSian 1.0",
+          "zipUrl": "https://drive.google.com/file/d/18V9soPJMqjTdwDnIubqhsW4_8uocmKBD/view?usp=sharing"
+        },
+        {
+          "zipName": "enbseries",
+          "zipUrl": "https://drive.google.com/file/d/15RyEET45Oops4uwt0SfXdGeRqvaGTF6-/view?usp=sharing"
+        },
+        {
+          "zipName": "NIBMods.Dev",
+          "zipUrl": "https://drive.google.com/file/d/1y0CTuB4qmDsl8AuxUTg7PL2FErKyN1Z_/view?usp=sharing"
+        },
+        {
+          "zipName": "ReadMe",
+          "zipUrl": "https://drive.google.com/file/d/18GJC4gRqCnwxgqN3gKGhW9EzcjTzPcgd/view?usp=sharing"
+        }
+      ]
     },
     {
-      "zipName": "_Redist",
-      "zipUrl": "https://drive.google.com/file/d/1nE1IMT5Gf045LUjryTpYZi4UGoI0mhjV/view?usp=sharing"
-    },
-    {
-      "zipName": "8da560-RmodCustoms LamborghiniSian 1.0",
-      "zipUrl": "https://drive.google.com/file/d/18V9soPJMqjTdwDnIubqhsW4_8uocmKBD/view?usp=sharing"
-    },
-    {
-      "zipName": "enbseries",
-      "zipUrl": "https://drive.google.com/file/d/15RyEET45Oops4uwt0SfXdGeRqvaGTF6-/view?usp=sharing"
-    },
-    {
-      "zipName": "NIBMods.Dev",
-      "zipUrl": "https://drive.google.com/file/d/1y0CTuB4qmDsl8AuxUTg7PL2FErKyN1Z_/view?usp=sharing"
-    },
-    {
-      "zipName": "ReadMe",
-      "zipUrl": "https://drive.google.com/file/d/18GJC4gRqCnwxgqN3gKGhW9EzcjTzPcgd/view?usp=sharing"
+      "gameId": "minecraft",
+      "name": "Minecraft: Modded",
+      "version": "1.0",
+      "executable": "MinecraftLauncher.exe",
+      "installPath": "C:\\XboxGames\\Minecraft Launcher\\Content",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png",
+      "videoUrl": "https://link_to_mc_video.mp4",
+      "screenshots": [],
+      "mods": []
     }
   ]
 }
